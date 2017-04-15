@@ -4,5 +4,8 @@
   "description": "A simple WebSocket-based chat server.",
   "dependencies": {
     "websocket": "*"
+  },
+  "scripts": {
+  	"start": "node chatserver.js"
   }
 }
